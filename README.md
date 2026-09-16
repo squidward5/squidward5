@@ -17,16 +17,11 @@ developer that likes figuring out how things work
   - html/css
   - javascript
 
-- game preservation
-
-- reverse engineering
-
 - ui design
 
 - music production
 
-- space (mostly just because it's cool)
-
+- roblox gfx design
 ---
 
 # favorite things
