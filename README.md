@@ -36,7 +36,7 @@ developer that likes figuring out how things work
 - underground music
 - blender
 - late-night coding sessions
-
+- transcribing lyrics onto [genius](https://genius.com) and [musixmatch](https://musixmatch.com)
 ---
 
 # currently
@@ -45,4 +45,4 @@ developer that likes figuring out how things work
 - improving [roblox rivals assets](https://squidward5.github.io/Roblox-Rivals-Assets/)
 - learning more about how to port unity projects to webgl (in terms, this is just making unity games playable on the web)
 - trying not to create five more unfinished projects
-- learning how to use typescript and react
+- learning how to code in typescript and react
