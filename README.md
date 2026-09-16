@@ -1,7 +1,5 @@
 # zay
 
----
-
 # about me
 
 developer that likes figuring out how things work
