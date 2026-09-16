@@ -1,7 +1,6 @@
 # hi, i'm **zay**
-
-about me
 ---
+about me
 developer that likes figuring out how things work
 
 - i build websites
