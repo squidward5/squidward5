@@ -1,4 +1,4 @@
-# hi, i'm **zay**
+hi, i'm **zay**
 ---
 about me
 ---
