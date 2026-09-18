@@ -30,7 +30,7 @@ developer that likes figuring out how things work
 - underground music
 - blender
 - late-night coding sessions
-- transcribing lyrics onto [genius](https://genius.com) and [musixmatch](https://musixmatch.com)
+- transcribing lyrics onto <a href="https://genius.com" target="_blank">genius</a> and <a href="https://musixmatch.com" target="_blank">musixmatch</a>
 ---
 
 # currently
