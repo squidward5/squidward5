@@ -37,6 +37,6 @@ developer that likes figuring out how things work
 
 - working on [orbit](https://orbit-three-livid.vercel.app)
 - improving [roblox rivals assets](https://squidward5.github.io/Roblox-Rivals-Assets/)
-- learning more about how to port unity projects to webgl (in terms, this is just making unity games playable on the web)
+- learning more about how to port games to be playable on the web
 - trying not to create five more unfinished projects
 - learning how to code in typescript and react
