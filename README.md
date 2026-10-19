@@ -35,8 +35,7 @@ developer that likes figuring out how things work
 
 # currently
 
-- working on [orbit](https://orbit-three-livid.vercel.app)
 - improving [roblox rivals assets](https://squidward5.github.io/Roblox-Rivals-Assets/)
-- learning more about how to port games to be playable on the web
+- getting better at valorant
+- porting games on the web
 - trying not to create five more unfinished projects
-- learning how to code in typescript and react
